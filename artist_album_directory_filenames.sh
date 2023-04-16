@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # Organize music files into folders based on ID3 tags
+# requires ffmpeg
 #
 for FILE in *; 
 do
